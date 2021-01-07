@@ -1,0 +1,169 @@
+
+{
+    "oldmain": {
+        "name": "Old Main",
+        "description": "Old Main, originally known as University Hall, is the oldest, most recognizable building on campus. Old main was renovated from 1986-1991, but most of its prominent features remained the same. The north tower stands 130 feet tall and the south tower stands 123 feet tall.",
+        "marked": 0
+    },
+    "jwfulbright": {
+        "name": "J. William Fulbright statue",
+        "description": "Sculptor Gretta Bader created this statue of Senator J  William Fulbright in 2002.",
+        "marked": 0
+    },
+    "peacefountain": {
+        "name": "Fulbright Peace Fountain",
+        "description": "Constructed in 1998 to promote peace through education in honor of J. William Fulbright, and his belief that education, particularly study abroad, has the power to promote tolerance and understanding among nations. This was funded by 115 individuals and 18 countries.",
+        "marked": 0
+    },
+    "greektheatre": {
+        "name": "Chi Omega Greek Theatre",
+        "description": "In 1930, Chi Omega gifted the Greek Theatre to the University. It is used for concerts, commencements, convocations, plays, and pep rallies. It’s largest crowd came during World War II, when over 6,000 gathered to watch the Army Air Corps Band.",
+        "marked": 0
+    },
+    "physics": {
+        "name": "Physics Building",
+        "description": "The Physics Building houses the University Physics Library as well as several classrooms.",
+        "marked": 0
+    },
+    "champions": {
+        "name": "Champions Hall",
+        "description": "Champions Hall is a four story building that houses several classrooms, 12 biology labs, a testing center, and the Math and Resource Teaching Center. It is intended to be an intersection between the arts and sciences. It holds several art pieces; the most notable being the Crystal Meteorite Shower that hangs above the lobby on the third floor.",
+        "marked": 0
+    },
+    "whiteengineering": {
+        "name": "John White Jr. Engineering Hall",
+        "description": "Built in 1927, the Historic Engineering Building was renamed White Engineering after former chancellor John A. White.",
+        "marked": 0
+    },
+    "bellengineering": {
+        "name": "Bell Engineering",
+        "description": "Built in 1987, the Bell Engineering building houses the main offices of the chemical, electrical, civil, and industrial engineering programs.",
+        "marked": 0
+    },
+    "walton": {
+        "name": "Sam M. Walton College of Business",
+        "description": "The Business Building holds all academic offices along with  the Dean’s office, Accounting Center, and Technology Center.",
+        "marked": 0
+    },
+    "chemistry": {
+        "name": "Chemistry Building",
+        "description": "Built in 1992, the Chemistry Building houses the Chemistry and Biochemistry offices and library.",
+        "marked": 0
+    },
+    "discovery": {
+        "name": "Discovery Hall",
+        "description": "Discovery Hall, previously titled the Science Building, was built in 1968.",
+        "marked": 0
+    },
+    "hillside": {
+        "name": "Hillside Auditorium",
+        "description": "Hillside Auditorium, located towards the East of the Greek theatre, includes two auditoriums with combined seating for 740 students.",
+        "marked": 0
+    },
+    "jbhunt": {
+        "name": "J.B. Hunt Transport Services Inc. Center for Academic Excellence",
+        "description": "This building houses several departments including business, spatial technology, and science. It also holds several all-purpose classrooms.",
+        "marked": 0
+    },
+    "kimpel": {
+        "name": "Kimpel Hall",
+        "description": "Kimpel Hall houses the School of Journalism and Strategic Media Center as well as several other all-purpose classrooms.",
+        "marked": 0
+    },
+    "walker": {
+        "name": "Willard J. Walker Hall",
+        "description": "Willard J. Walker Hall includes the Graduate School of Business, Career Services, and many other outreach centers. It also includes an Einstein Bros Bagels.",
+        "marked": 0
+    },
+    "mullins": {
+        "name": "David W. Mullins Library",
+        "description": "Built in 1968, Mullins replaced Vol Walker Hall as the main University Library ",
+        "marked": 0
+    },
+    "union": {
+        "name": "Arkansas Student Union",
+        "description": "The Arkansas Student Union includes the treasurer's office, mailing services, the new student office, a student gym, a technology center, a large food court, and several other office spaces.",
+        "marked": 0
+    },
+    "founders": {
+        "name": "Founders Hall",
+        "description": "Founders Hall is a resident hall that also contains three dining locations: Slim Chickens, Sushi with Gusto, and Where the Wild Greens AR",
+        "marked": 0
+    },
+    "courage": {
+        "name": "Courage to Lead",
+        "description": "The bronze sculpture, Courage to Lead, by the Potawatomi artist Denny Haskew, was donated by Don Marr and James Kunzelmann to the J. William Fulbright College of Arts and Sciences in 2003. The six foot four inch sculpture sits atop a 9000 pound sandstone base.",
+        "marked": 0
+    },
+    "gearhart": {
+        "name": "Gearhart",
+        "description": "Named after the former chancellor G. David Gearhart,  Gearhart Hall houses the graduate school offices as well as the geoscience department.",
+        "marked": 0
+    },
+    "volwalker": {
+        "name": "Vol Walker Hall",
+        "description": "Built in 1935,  Vol Walker Hall represents both neoclassical and colonial revival architecture styles in its unique design.",
+        "marked": 0
+    },
+    "architecture": {
+        "name": "Steven L. Anderson Design Center",
+        "description": "Built in 2013, the Steven L. Anderson Design Center is a 37,000 square foot addition to Vol Walker Hall.",
+        "marked": 0
+    },
+    "brough": {
+        "name": "Brough Commons",
+        "description": "Built in 1957, Brough Commons was named after former economics professor and Arkansas governor Charles H. Brough. It is the main dining hall on campus.",
+        "marked": 0
+    },
+    "sustainability": {
+        "name": "Sustainability House",
+        "description": "Purchased by the University in 2003, the Sustainability House is home to the University office of sustainability.",
+        "marked": 0
+    },
+    "chemandbiochem": {
+        "name": "Chemistry Building",
+        "description": "Built in 1992, the Chemistry Building houses the Chemistry and Biochemistry offices and library.",
+        "marked": 0
+    },
+    "patwalker": {
+        "name": "Pat Walker Health Center",
+        "description": "The Pat Walker health center was built in 2004 and expanded  in 2015. It provides health services to University students. ",
+        "marked": 0
+    },
+    "stadium": {
+        "name": "Donald W. Reynolds Razorback Stadium",
+        "description": "Donald W. Reynolds Razorback Stadium holds 76,000 fans. It was first opened on September 24, 1938  and most recently expanded in 2018. It was named after Donald W. Reynolds, an American businessman and philanthropist.",
+        "marked": 0
+    },
+    "hper": {
+        "name": "The Health, Physical Education and Recreation Building",
+        "description": "The HPER (short for Health, Physical Education and Recreation) is  a multi-purpose facility on campus with four levels.",
+        "marked": 0
+    },
+    "clinton": {
+        "name": "Clinton House Museum",
+        "description": "This Historic House Museum was built in 1931 and was the first home of Bill and Hillary Clinton while they both taught Law at the University.",
+        "marked": 0
+    },
+    "education": {
+        "name": "Graduate Education Building",
+        "description": "The Graduate Education building houses the offices of the Dean of Education, Rehabilitation, Human Resources, and Communication Disorders.",
+        "marked": 0
+    },
+    "hogsstatue": {
+        "name": "Wild Band of Razorbacks",
+        "description": "Installed in 2018, the “Wild Band of Razorbacks” monument stands 25 feet tall and 50 feet wide. It was created by wildlife sculpture Dick Idol.",
+        "marked": 0
+    },
+    "barnhill": {
+        "name": "Barnhill Arena",
+        "description": "Opened in 1954, Barnhill Arena is a 10,000-seat multi-purpose arena primarily used for volleyball. ",
+        "marked": 0
+    },
+    "lardy": {
+        "name": "Larson Polk",
+        "description": "Senior at the University of Arkansas pursuing B.S. in Computer Science. Developer of the University of AR app.",
+        "marked": 0
+    }
+    
+}
